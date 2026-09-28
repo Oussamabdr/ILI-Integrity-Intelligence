@@ -82,6 +82,6 @@ http://localhost:4200
 Compte initial:
 
 ```text
-Email: admin@sonatrach.dz
+Email: admin@exemple.dz
 Mot de passe: Admin123!
 ```
